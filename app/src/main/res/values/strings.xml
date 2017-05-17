@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Contest</string>
+    <string name="action_settings">Settings</string>
+    <string name="singin">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="info">Информация</string>
+    <string name="date">Дата</string>
+
+    <string name="username_req">Логин *</string>
+    <string name="password_req">Пароль *</string>
+    <string name="email_req">E-mail *</string>
+
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="email">E-mail</string>
+    <string name="new_user">Новый пользователь</string>
+    <string name="new_event">Новое мероприятие</string>
+    <string name="event_name">Название</string>
+    <string name="regex_error_length">Длина должна быть больше 4 символов</string>
+    <string name="regex_error_valid">Можно вводить только цифры и латинские буквы</string>
+    <string name="autorization">Выберите аккаунт для входа</string>
+    <string name="challenge_name">Название</string>
+    <string name="description">Описание</string>
+    <string name="log_in">Войти</string>
+    <string name="log_out">Выйти</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+
+</resources>

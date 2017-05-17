@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\anton\.android\build-cache\d657e154495fa64a881bf0395f0c5304a6d21ac6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d88ec155032460a5f4efa723a04c460d3391193">
+        <dex dex="D:\Projects\Challenger\app\build\intermediates\pre-dexed\debug\classes_7b06ff0c821dd2cd20f4993a8f8855730c2b68e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anton\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.2.0\6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c\okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="D:\Projects\Challenger\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.2.0_d1ed66ce53161d90a9017aaca3d06436581edeb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anton\.android\build-cache\ebcee37ed63dda9b6c0b5d212b6cd583992a0ed2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="196889103665d7eae17105a5a78f141086044301">
+        <dex dex="D:\Projects\Challenger\app\build\intermediates\pre-dexed\debug\classes_5b8c250c6190803a156913ad4c8519b468e45f99.jar" />
+    </item>
+
+</items>
